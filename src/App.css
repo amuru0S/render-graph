@@ -1,0 +1,30 @@
+.App {
+    margin: 0 auto;
+    position: relative;
+}
+
+#title {
+    text-align: center;
+    color: lightseagreen;
+}
+
+#label,
+#inpt {
+    display: inline-flex;
+    background-color: lightslategray;
+    color: black;
+    box-sizing: border-box;
+    border-radius: 0.5em;
+    width: 200px;
+    height: 30px;
+    margin: 3px;
+    padding: 5px;
+}
+
+#inpt {
+    text-align: center;
+}
+
+#inpt:focus {
+    outline: none;
+}
