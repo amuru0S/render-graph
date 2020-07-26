@@ -9,9 +9,8 @@ This is a react project that renders a dynamic graph on entering the user inputs
 ### :clipboard: Table of Contents: :clipboard:
 
 * **[Technologies used](https://github.com/amuru0S/render-graph#technologies-used)**
-* **[Goals for this project]()**
-* **[My git workflow]()**
-* **[Useful references]()**
+* **[Goals for this project](https://github.com/amuru0S/render-graph#trophy-goals-for-this-project-trophy)**
+* **[Useful references](https://github.com/amuru0S/render-graph#useful-references)**
 
 ### Technologies used 
 
