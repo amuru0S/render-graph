@@ -8,7 +8,7 @@ This is a react project that renders a dynamic graph on entering the user inputs
 
 ### :clipboard: Table of Contents: :clipboard:
 
-* **[Technologies used]()**
+* **[Technologies used](https://github.com/amuru0S/render-graph#technologies-used)**
 * **[Goals for this project]()**
 * **[My git workflow]()**
 * **[Useful references]()**
@@ -21,6 +21,10 @@ This is a react project that renders a dynamic graph on entering the user inputs
 * **[JS]()**
 * **[html5]()**
 * **[CSS3]()**
+
+#### :trophy: Goals for this project :trophy:
+
+* Should render a graph upon providing the user inputs in the input field.
 
 #### :memo: What can be implemented :memo:
 
