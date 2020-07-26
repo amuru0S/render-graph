@@ -6,6 +6,8 @@
 
 This is a react project that renders a dynamic graph on entering the user inputs in the input field. This is developed using ReactJS, Vanilla Javascript, Html5 and CSS3 technologies.
 
+### :notebook_with_decorative_cover: To view the graph in other format, please clone the project and update the type of the graph as desired :notebook_with_decorative_cover:
+
 ### :clipboard: Table of Contents: :clipboard:
 
 * **[Technologies used](https://github.com/amuru0S/render-graph#technologies-used)**
