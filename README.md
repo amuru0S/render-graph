@@ -16,10 +16,10 @@ This is a react project that renders a dynamic graph on entering the user inputs
 
 :eyes::point_down:**Click links to view some sample code in this project** :point_down::eyes:
 
-* **[React]()**
-* **[JS]()**
-* **[html5]()**
-* **[CSS3]()**
+* **[React](https://github.com/amuru0S/render-graph/blob/master/src/App.js)**
+* **[JS](https://github.com/amuru0S/render-graph/blob/master/src/App.js)**
+* **[html5](https://github.com/amuru0S/render-graph/blob/master/src/App.js)**
+* **[CSS3](https://github.com/amuru0S/render-graph/blob/master/src/App.css)**
 
 #### :trophy: Goals for this project :trophy:
 
