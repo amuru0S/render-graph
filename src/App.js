@@ -62,6 +62,7 @@ export default class App extends Component {
           type="string"
           value={stroomverbruik}
           onChange={this.handleChange}
+          placeholder ="Enter a value"
           /><br />
           <label id="label">Vermogen</label>
           <input 
@@ -70,6 +71,7 @@ export default class App extends Component {
           type="string"
           value={vermogen}
           onChange={this.handleChange}
+          placeholder ="Enter a value"
           /><br />
           <label id="label">Opbrengst Panelen</label>
           <input 
@@ -78,6 +80,7 @@ export default class App extends Component {
           type="string"
           value={opbrengstpanelen}
           onChange={this.handleChange}
+          placeholder ="Enter a value"
           /><br />
           <label id="label">Direct Verbruik</label>
           <input 
@@ -86,6 +89,7 @@ export default class App extends Component {
           type="string"
           value={directverbruik}
           onChange={this.handleChange}
+          placeholder ="Enter a value"
           /> 
         <CanvasJSChart options={options}
         onRef={ref => (this.chart = ref)} 
