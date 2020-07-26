@@ -32,7 +32,7 @@ export default class App extends Component {
 				text: "Rendering energy graph"
 			},
 			data: [{
-        type: "bar", //change type to bar, line, area, pie, etc		
+        type: "pie", //change type to bar, line, area, pie, etc		
         startAngle: 75,
 				toolTipContent: "<b>{label}</b>: {y}%",
 				showInLegend: true,
