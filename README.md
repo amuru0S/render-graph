@@ -1,6 +1,6 @@
 # :bar_chart: Render Graph :bar_chart:
 
-:point_right: **[Check out the deployed version here](https://24-frames.netlify.com)** :point_left:
+:point_right: **[Check out the deployed version here](https://render-graph.netlify.app/)** :point_left:
 
 ## :loudspeaker: What this project is about :loudspeaker:
 
