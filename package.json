@@ -20,7 +20,7 @@
         "react-dom": "^16.13.1",
         "react-dropdown-select": "^4.4.2",
         "react-router-dom": "^5.2.0",
-        "react-scripts": "0.9.x"
+        "react-scripts": "5.0.x"
     },
     "lint-staged": {
         "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
